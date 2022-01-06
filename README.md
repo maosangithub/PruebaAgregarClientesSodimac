@@ -8,6 +8,11 @@ y a continuación:
 
 npm install -g @angular/cli
 
+Y despues de esto para compilar y ejecutar la aplicación:
+
+ng serve --o
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 El proyecto se ve de la siguiente manera:
