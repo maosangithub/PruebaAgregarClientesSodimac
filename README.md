@@ -10,6 +10,11 @@ npm install -g @angular/cli
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
+El proyecto se ve de la siguiente manera:
+
+![image](https://user-images.githubusercontent.com/43590815/148307633-3882482c-bf30-46af-a203-264bf377450d.png)
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
