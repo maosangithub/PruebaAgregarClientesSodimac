@@ -1,5 +1,13 @@
 # AgregarClientePruebaSodimac
 
+Al clonar este proyecto, en la carpeta donde sea clonado es posible que no funcione debido a la falta de instalalción Node Package Manager y del cliente de angular, paral lo cual se debe ejecutar estando sobre la carpeta clonada lo siguiente:
+
+npm install
+
+y a continuación:
+
+npm install -g @angular/cli
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 ## Development server
